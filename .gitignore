@@ -1,1 +1,5 @@
 /.project
+Build/
+Build/*
+Saved/
+Saved/*
