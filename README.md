@@ -12,4 +12,7 @@ Passo a passo para baixar e upar modificações no projeto!
 8-Va na pasta que voce baixou e abra o projeto por la.
 9-Use os role tudo sem medo criancu
 10-Terminou de usar pode fechar a unreal, va ate o GitEye e clique com o botao direito em "Working tree" e selecione "Add index"
-11-Depois botao direito na pasta "tcc2016.." e "commit", na aba que abri de um 
+11-Depois botao direito na pasta "tcc2016.." e "commit", na aba que abri de um "commit push"
+12-Pronto, voce upou as coisas pro git.
+
+OBS: Provavelmente o repositorio ficara salvo no gitEye se for no seu computador pessoal, entao ja tem a pasta com o projeto, ai s� baixar as atualizacoes e usar e depois upar. (A partir do passo 7)
