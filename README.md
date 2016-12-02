@@ -1,6 +1,6 @@
 # tcc2016-drawing-codes
 tcc2016-drawing-codes created by GitHub Classroom
-Passo a passo para baixar e upar modificaos no projeto!
+Passo a passo para baixar e upar modificacoes no projeto!
 
 1-Baixe o GitEye
 
