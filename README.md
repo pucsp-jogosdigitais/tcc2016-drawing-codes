@@ -1,32 +1,11 @@
-# tcc2016-drawing-codes
-tcc2016-drawing-codes created by GitHub Classroom
-Passo a passo para baixar e upar modificacoes no projeto!
+# Elementum-Tcc-2016
+Elementum-Tcc-2016 created by GitHub Classroom
+Passo a passo para baixar e executar o projeto!
 
-1-Baixe o GitEye
+Baixe o Projeto
 
-2-Acesse a pagina do projeto no github (https://github.com/pucsp-jogosdigitais/tcc2016-drawing-codes) e copie o url.
+Abra na Unreal Engine 4.12.5
 
-3-No GitEye clique em "Clone a git repository" depois "clone URI" e cole o link.
+Depois de compilar voce podera rodar no editor, ou gerar uma build
 
-4-Seleciona a destino para a pasta, VOCES ABRIRAO O PROJETO POR LA!!!
-
-5-Wait for it..
-
-6-Projeto baixado aparecera na aba a esquerda, pasta "Working tree" tera os arquivos do projeto.
-
-7-Na primeira pasta da raiz, provavelmente "tcc2016..." clique com o botao direito e va em "PULL" (Isso vai baixar atualizacoes que estejam na rede) 
-
-8-Va na pasta que voce baixou e abra o projeto por la.
-
-9-Use os role tudo sem medo criancu
-
-10-Terminou de usar pode fechar a unreal, va ate o GitEye e clique com o botao direito em "Working tree" e selecione "Add index" (Isso vai verificar se tem novos/alterados arquivos na pasta)
-
-11-Depois botao direito na pasta "tcc2016.." e "commit", na aba que abri de um "commit push" (Isso vai upar os arquivos novos pra rede)
-
-12-Pronto, voce upou as coisas pro git.
-
-
-OBS: Provavelmente o repositorio ficara salvo no gitEye se for no seu computador pessoal, entao ja tem a pasta com o projeto, ai só baixar as atualizacoes e usar e depois upar. (A partir do passo 7)
-
-ATT TESTE 10:14
+Indo no menu file>Package
