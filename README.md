@@ -1,6 +1,6 @@
 # tcc2016-drawing-codes
 tcc2016-drawing-codes created by GitHub Classroom
-Passo a passo para baixar e upar modificações no projeto!
+Passo a passo para baixar e upar modificaos no projeto!
 
 1-Baixe o GitEye
 
@@ -27,6 +27,6 @@ Passo a passo para baixar e upar modificações no projeto!
 12-Pronto, voce upou as coisas pro git.
 
 
-OBS: Provavelmente o repositorio ficara salvo no gitEye se for no seu computador pessoal, entao ja tem a pasta com o projeto, ai s� baixar as atualizacoes e usar e depois upar. (A partir do passo 7)
+OBS: Provavelmente o repositorio ficara salvo no gitEye se for no seu computador pessoal, entao ja tem a pasta com o projeto, ai só baixar as atualizacoes e usar e depois upar. (A partir do passo 7)
 
 ATT TESTE 10:14
