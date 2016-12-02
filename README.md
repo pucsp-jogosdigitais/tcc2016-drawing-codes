@@ -6,6 +6,4 @@ Baixe o Projeto
 
 Abra na Unreal Engine 4.12.5
 
-Depois de compilar voce podera rodar no editor, ou gerar uma build
-
-Indo no menu file>Package
+Depois de compilar voce podera rodar no editor, ou gerar uma build indo no menu file>Package
